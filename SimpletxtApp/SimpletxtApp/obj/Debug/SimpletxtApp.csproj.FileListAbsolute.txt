@@ -1,0 +1,10 @@
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\bin\Debug\SimpletxtApp.exe.config
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\bin\Debug\SimpletxtApp.exe
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\bin\Debug\SimpletxtApp.pdb
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\obj\Debug\SimpletxtApp.csprojAssemblyReference.cache
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\obj\Debug\SimpletxtApp.Form1.resources
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\obj\Debug\SimpletxtApp.Properties.Resources.resources
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\obj\Debug\SimpletxtApp.csproj.GenerateResource.cache
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\obj\Debug\SimpletxtApp.csproj.CoreCompileInputs.cache
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\obj\Debug\SimpletxtApp.exe
+G:\Projects\C#_net\SimpletxtApp\SimpletxtApp\obj\Debug\SimpletxtApp.pdb
